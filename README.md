@@ -7,9 +7,10 @@ make
 ```
 then you will need to run the compiled output file and enter the number which you wanna apply the formula on:
 ```bash
-./output 6
+./output 6 1
 ```
-Here 6 will be used in the program\
+Here 6 will be used in the program and 1 is for the function number\
+You will need to provide a number ranging from 1-3 in the function number to run the code\
 Then the output of the functions will be printed on your beautiful console ^_^
 
 # Quick review of each of the functions
